@@ -1,0 +1,35 @@
+body {
+}
+
+h1 {
+  text-align: center;
+}
+
+#message {
+  display: none;
+  font-size: 24px;
+}
+
+/* ----- Form ------ */
+form {
+  padding: 25px;
+}
+
+.form-actions {
+    margin: 0;
+    background-color: transparent;
+    text-align: center;
+    padding-top: 25px;
+}
+
+/* ----- Buttons ------ */
+.btn {
+  background-color: transparent;
+  border: solid;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+  border: solid;
+}
